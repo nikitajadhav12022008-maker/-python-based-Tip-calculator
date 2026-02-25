@@ -1,15 +1,15 @@
-# 💰Tip calculator:
+#💰Tip calculator:
 
 A simple python program that calculates the tip amount and total bill.
 
-## 🚀Features:
+##🚀Features:
 
 -takes total bill amount as input
 -takes tip percentage as input
 -calculates tip amount
 -calculates total amount to pay
 
-## ▶How to run:
+##▶How to run:
 
 1.make sure python is installed
 2.open terminal in this folder.
@@ -27,4 +27,3 @@ total amount to pay:1100.0
 
 ## 👩‍💻Author:
 Nikita Jadhav
-```
