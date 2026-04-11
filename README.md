@@ -2,7 +2,7 @@
 
 A simple python program that calculates the tip amount and total bill.
 
-------
+---
 
 ## 🚀Features:
 
@@ -11,7 +11,7 @@ A simple python program that calculates the tip amount and total bill.
 - calculates tip amount
 - calculates total amount to pay
 
-------
+---
 
 ## 🧠Example:
 
@@ -21,7 +21,7 @@ A simple python program that calculates the tip amount and total bill.
 - tip amount:100.0
 - total amount to pay:1100.0
 
-----
+---
 
 ## ▶How to run:
 
@@ -38,4 +38,4 @@ python tip_calc.py
 
 Nikita Jadhav
 
-----
+---
