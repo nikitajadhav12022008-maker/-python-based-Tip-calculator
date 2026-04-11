@@ -34,9 +34,8 @@ python tip_calc.py
 
 ---
 
-
-
 ## 👩‍💻Author:
+
 Nikita Jadhav
 
 ----
