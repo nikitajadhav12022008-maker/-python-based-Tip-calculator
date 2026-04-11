@@ -6,10 +6,10 @@ A simple python program that calculates the tip amount and total bill.
 
 ## 🚀Features:
 
--takes total bill amount as input
--takes tip percentage as input
--calculates tip amount
--calculates total amount to pay
+- takes total bill amount as input
+- takes tip percentage as input
+- calculates tip amount
+- calculates total amount to pay
 
 ------
 
