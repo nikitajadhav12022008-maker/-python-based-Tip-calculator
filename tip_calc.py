@@ -1,5 +1,5 @@
 ## Python based tip calculator:
-#input bill
+#input bill as float
 bill = float(input("enter total bill amount:"))
 
 #input tip_percent:
